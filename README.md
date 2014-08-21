@@ -1,4 +1,7 @@
-Participate, Learn, Solve and Be Part of Exzeo - Puzzle EXA
-===========
+# Puzzle EXA
+
+
+## Participate, Learn, Solve and Be Part of Exzeo
+
 
 
