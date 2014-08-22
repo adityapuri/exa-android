@@ -33,6 +33,10 @@ to showcase the solutions
 > Find the smallest x + y + z with integers x > y > z > 0 such that x + y, x − y, x + z, x − z, y + z, y − z are all perfect squares.
 
 
-#### So what you have to do once you have your inspiring and excellent solution with you. Clone the repository at your local system. Push the code related to solution into folder
+#### So what you have to do once you have your inspiring and excellent solution with you. 
+
+1. Fork the repository at your GitHub account. 
+2. Push the code related to solution into Forked repository. You can let us know though email: adityap@exzeo.com once you are done with your solution.
+
 
 
