@@ -35,8 +35,12 @@ to showcase the solutions
 
 #### So what you have to do once you have your inspiring and excellent solution with you. 
 
-1. Fork the repository at your GitHub account. 
-2. Push the code related to solution into Forked repository. You can let us know though email: adityap@exzeo.com once you are done with your solution.
+1. Fork the repository from your GitHub account. 
+2. Push the code related to solution into Forked repository. You can let us know though email: adityap@exzeo.com once you are done with your solution. You can let us know that feedback should be published on Github or you can let us know your email address where we can send your feedback that will be private to you.
+
+
+#### We will get back to you once your solution is verified. 
+
 
 
 
